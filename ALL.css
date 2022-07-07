@@ -1,0 +1,39 @@
+.abc{
+    font-family: 'Dancing Script', cursive;
+    color: red;
+}
+.size{
+    font-size: 20px;
+}
+h1 {
+    color: rgb(0,255,0);  /* we have mentioned the colour green by using its rgb value ,we also can use its hexa decimal value to indicate it */
+     background-color: yellow; 
+     font-size: 24px;
+ }
+ p {
+     color: red; 
+     background-color: skyblue; 
+     font-size: 14px;
+ }
+ div{
+    border: solid 2px black;
+    background-color: palevioletred;
+}
+p{
+    border: solid 2px black;
+    margin:10px 20px ;
+}
+form{
+    /*color: rgb(0,255,0);  /* we have mentioned the colour green by using its rgb value ,we also can use its hexa decimal value to indicate it */
+    background-color: #6fff8e; 
+    font-size: 24px;
+    border: solid black;
+   /* border-width: 10px;*/
+   margin:10px 20px ;
+    padding: 100px 500px ;
+}
+.h{
+    border: solid black;
+    margin: 20px;
+    color: black;
+}
